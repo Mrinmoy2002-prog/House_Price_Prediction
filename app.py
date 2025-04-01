@@ -5,6 +5,7 @@ from flask import Flask,request,app,jsonify,url_for,render_template
 import numpy as np
 import pandas as pd
 
+
 application=Flask(__name__)\
 
 app = application
